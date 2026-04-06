@@ -1,3 +1,5 @@
+#program penghitungan umur
+
 umur = int(input("Masukan umur anda: "))
 
 if umur >= 18:
