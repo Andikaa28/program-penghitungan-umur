@@ -37,7 +37,7 @@ Program ini:
 Menerima input umur
 Menggunakan percabangan if-elif-else
 Mengelompokkan umur menjadi:
-Belum lahir
-Belum cukup umur
-Cukup umur
-Lansia
+Belum lahir,
+Belum cukup umur,
+Cukup umur,
+Lansia. 
